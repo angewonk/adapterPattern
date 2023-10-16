@@ -25,6 +25,7 @@ You are developing an application that helps users manage and control various el
         </li>
     </ul>
 # Adapter Pattern Class Diagram
+
 ![Blank diagram (3)](https://github.com/angewonk/adapterPattern/assets/142864286/222a3997-39c4-406d-be76-e69254bd2e82)
 
 
